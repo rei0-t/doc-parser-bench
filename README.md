@@ -1,5 +1,7 @@
 # doc-parser-bench
 
+**English** | [简体中文](README.zh-CN.md)
+
 Benchmark tool for evaluating **document parsers** on table-extraction quality,
 against hand-annotated ground truth.
 
