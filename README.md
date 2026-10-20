@@ -60,7 +60,7 @@ doc-parser-bench/
 **Prerequisites:** Python 3.10+ (developed on 3.13).
 
 ```bash
-git clone https://github.com/<your-username>/doc-parser-bench.git
+git clone https://github.com/rei0-t/doc-parser-bench.git
 cd doc-parser-bench
 
 python -m venv venv
