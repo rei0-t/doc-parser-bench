@@ -1,0 +1,152 @@
+{
+  "filename": "sample_006.pdf",
+  "tables": [
+    {
+      "num_rows": 5,
+      "num_cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Year",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Population (10k)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "GDP (100M)",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Growth",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "2019",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "140005",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "986515",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "6.0%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "2020",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "141212",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "1013567",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "4.8%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "2021",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "141260",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "1149237",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "8.1%",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "2022",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "141175",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 2,
+          "text": "1204724",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "3.0%",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

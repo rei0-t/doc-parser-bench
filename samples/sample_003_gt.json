@@ -1,0 +1,75 @@
+{
+  "filename": "sample_003.pdf",
+  "tables": [
+    {
+      "num_rows": 5,
+      "num_cols": 2,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Attribute",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Value",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Dimensions",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "210 x 297 mm",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Colour",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "White",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Warranty",
+          "rowspan": 1,
+          "colspan": 2
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Weight",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "350 g",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "filename": "sample_001.pdf",
+  "tables": [
+    {
+      "num_rows": 5,
+      "num_cols": 4,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "Item",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Qty",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "Unit Price",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 3,
+          "text": "Amount",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Wireless Mouse",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "2",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "59.00",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 3,
+          "text": "118.00",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "USB-C Cable",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "5",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "19.90",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 3,
+          "text": "99.50",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Desk Lamp",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "1",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "129.00",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 3,
+          "text": "129.00",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Total",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 3,
+          "text": "346.50",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

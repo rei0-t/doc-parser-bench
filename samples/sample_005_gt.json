@@ -1,0 +1,96 @@
+{
+  "filename": "sample_005.pdf",
+  "tables": [
+    {
+      "num_rows": 4,
+      "num_cols": 3,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "SKU",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Name",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 0,
+          "col": 2,
+          "text": "Price",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "A-01",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "Widget",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "9.99",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "A-02",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "Gadget",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "14.50",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "A-03",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "Gizmo",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "7.25",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "page": 1
+    }
+  ]
+}

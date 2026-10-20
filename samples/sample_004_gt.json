@@ -1,0 +1,131 @@
+{
+  "filename": "sample_004.pdf",
+  "tables": [
+    {
+      "num_rows": 7,
+      "num_cols": 3,
+      "cells": [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "North America",
+          "rowspan": 1,
+          "colspan": 3
+        },
+        {
+          "row": 1,
+          "col": 0,
+          "text": "Product",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "Units",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 1,
+          "col": 2,
+          "text": "Revenue",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 0,
+          "text": "Alpha",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "100",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 2,
+          "col": 2,
+          "text": "1000",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 0,
+          "text": "Beta",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "150",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 3,
+          "col": 2,
+          "text": "1800",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 4,
+          "col": 0,
+          "text": "Asia",
+          "rowspan": 1,
+          "colspan": 3
+        },
+        {
+          "row": 5,
+          "col": 0,
+          "text": "Product",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "Units",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 5,
+          "col": 2,
+          "text": "Revenue",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 0,
+          "text": "Gamma",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "90",
+          "rowspan": 1,
+          "colspan": 1
+        },
+        {
+          "row": 6,
+          "col": 2,
+          "text": "900",
+          "rowspan": 1,
+          "colspan": 1
+        }
+      ],
+      "page": 1
+    }
+  ]
+}
