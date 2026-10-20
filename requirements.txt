@@ -1,0 +1,11 @@
+# Runtime dependencies for the benchmark itself.
+pdfplumber>=0.11.0   # rule-based PDF table extraction (default baseline parser)
+jinja2>=3.1.0       # HTML report templating
+requests>=2.28.0    # REST client used by the optional RAGFlow parser
+
+# Only needed by scripts/generate_samples.py, which regenerates the bundled
+# synthetic sample PDFs. Not required to run the benchmark on existing samples.
+reportlab>=4.0.0
+
+# Optional: tabular post-processing / Excel sample support.
+pandas>=2.0.0
